@@ -18,14 +18,13 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - 📫 How to reach me: ahmedalvi5418@gmail.com
 - ⚡ Fun fact: I love turning coffee into code!
 
-## 🛠️ Technologies & Tools
+## 🛠️ **Technologies & Tools**
 
-<p align="center">
-  <img src="assets/tech-carousel.gif" alt="Technologies & Tools carousel" height="80">
-  <!-- Fallback (static) if GIF doesn't load -->
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cpp,react,nextjs,vue,tailwind,bootstrap,sass,nodejs,express,django,flask,mongodb,postgresql,mysql,redis,git,github,vscode,docker,aws,linux,postman,npm" alt="Tech stack (static)" height="32">
-</p>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cpp,react,nextjs,vue,tailwind,bootstrap,sass,nodejs,express,django,flask,mongodb,postgresql,mysql,redis,git,github,vscode,docker,aws,linux,postman,npm" />
+  </marquee>
+</div>
 
 ---
 
@@ -48,6 +47,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHMEDALVI10&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
+
 
 ## 🔥 Recent Projects
 
