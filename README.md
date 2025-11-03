@@ -21,46 +21,9 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 🛠️ **Technologies & Tools**
 
 <div align="center">
-
-### 💻 **Languages**
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-### 🎨 **Frontend**
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vue.js](https://skillicons.dev/icons?i=vue)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Sass](https://skillicons.dev/icons?i=sass)
-
-### ⚙️ **Backend**
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-
-### 🗄️ **Database**
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Redis](https://skillicons.dev/icons?i=redis)
-
-### 🛠️ **Tools & Technologies**
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Postman](https://skillicons.dev/icons?i=postman)
-![npm](https://skillicons.dev/icons?i=npm)
-
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cpp,react,nextjs,vue,tailwind,bootstrap,sass,nodejs,express,django,flask,mongodb,postgresql,mysql,redis,git,github,vscode,docker,aws,linux,postman,npm" />
+  </marquee>
 </div>
 
 ---
