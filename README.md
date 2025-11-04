@@ -1,18 +1,18 @@
 <!-- # 🌟 Welcome to My GitHub Profile 🌟  -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&height=40&lines=IoT+Engineer;Embedded+Systems+Developer;Smart+Device+Innovator" alt="Sakib Ahmed Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&height=40&lines=IoT+Engineer;Embedded+Systems+Developer;Machine+Learning+Enthusiast;Smart+Device+Innovator" alt="Sakib Ahmed Typing SVG" />
 </div>
 
 ---
 
 ## 💻 About Me
 
-I am **Sakib Ahmed**, an **IoT Engineer** passionate about developing intelligent and connected systems that bridge the gap between hardware and software.  
+I am **Sakib Ahmed**, an **IoT Engineer** and **Machine Learning Enthusiast** passionate about developing intelligent and connected systems that seamlessly blend hardware and software.  
 I earned my **BSc in Electronics and Telecommunication Engineering** from the **Chittagong University of Engineering and Technology (CUET), Bangladesh**, in **2024**.
 
-Currently, I am working at **Magnetism Tech Limited**, where I design and develop **end-to-end IoT systems** involving hardware design, firmware development, and cloud connectivity.  
-My work focuses on **embedded systems**, **wireless communication protocols**, **PCB design**, and **server–web integration** to create smart, reliable, and efficient IoT devices.
+Currently, I am working at **Magnetism Tech Limited**, where I design and develop **end-to-end IoT ecosystems** involving hardware design, firmware development, data processing, and cloud integration.  
+My work focuses on **embedded systems**, **wireless communication**, **IoT–ML integration**, and **real-time analytics** to create impactful smart technologies.
 
 ---
 
@@ -21,39 +21,42 @@ My work focuses on **embedded systems**, **wireless communication protocols**, *
 This is to certify that **Mr. Sakib Ahmed**, son of **Milon Ahmed** and **Rowshon Ara**, has been employed with **Magnetism Tech Limited** as an **IoT Engineer** since **28th October 2023**.
 
 During his tenure, Mr. Ahmed has demonstrated exceptional **technical expertise**, **professionalism**, and **dedication**.  
-He has played a pivotal role in the **design, development, and deployment of comprehensive IoT solutions**, covering:
+He has played a pivotal role in the **design, development, and deployment** of IoT systems encompassing:
 
-- ⚙️ **Hardware design** and embedded firmware development  
-- 🌐 **Wireless communication protocols** and IoT cloud integration  
-- 💾 **Data acquisition, processing, and visualization**  
-- 🧩 **PCB design** and hardware optimization  
-- ☁️ **Server–web connectivity and system scalability**
+- ⚙️ **Embedded hardware design** and firmware development  
+- 🌐 **Wireless communication protocols** (WiFi, BLE, GSM, MQTT)  
+- ☁️ **Cloud connectivity and server–web integration**  
+- 💾 **Sensor data acquisition, preprocessing, and analytics**  
+- 🧩 **Machine Learning model deployment for IoT applications**  
+- 🖥️ **PCB design and system optimization**
 
-Mr. Ahmed has significantly contributed to the **architecture and optimization of IoT infrastructures**, ensuring robust connectivity, efficient power management, and high system performance.  
-His innovative thinking and cross-domain expertise have greatly strengthened the company’s smart technology initiatives.
+His innovation-driven mindset and proficiency across both **hardware and AI software** domains have strengthened the company’s mission to build scalable and reliable IoT systems.
 
 ---
 
 ## ⚙️ Tech Stack & Skills
 
-![](https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python,embedded,linux,mysql,aws,azure,html,css,js,react,git,kicad,figma)
+![](https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python,django,flask,tensorflow,pytorch,sklearn,opencv,pandas,numpy,jupyter,embedded,linux,mysql,postgres,aws,azure,html,css,js,react,git,docker,kicad)
+
 
 **Core Expertise:**
-- Embedded C/C++ and Microcontroller Firmware Development  
-- IoT System Design (ESP32, nRF52, STM32, Arduino)  
-- Wireless Communication: WiFi, BLE, GSM, MQTT, ESP-NOW  
-- PCB Design using KiCad and EasyEDA  
-- Cloud Integration: AWS IoT, REST APIs, ThingSpeak, Firebase  
-- Full-stack Prototyping: Device → Server → Dashboard
+- Embedded C/C++ Firmware for Microcontrollers (ESP32, STM32, nRF52, Arduino)  
+- IoT System Design, Data Communication (MQTT, HTTP, BLE, GSM)  
+- Machine Learning: Classification, Regression, CNNs, and Sensor Data Analysis  
+- Python Tools: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, OpenCV  
+- IoT Cloud: AWS IoT Core, ThingSpeak, Firebase, RESTful APIs  
+- PCB Design using KiCad & EasyEDA  
+- Web Integration and Data Dashboards (Django, React, JS)  
+- Version Control & CI/CD (Git, Docker)
 
 ---
 
 ## 🏆 Achievements & Strengths
 
-- Designed and deployed **end-to-end IoT architectures** for smart health and automation devices  
-- Integrated **low-power embedded systems** with efficient cloud synchronization  
-- Developed **real-time monitoring systems** with robust sensor data processing  
-- Skilled in **multidisciplinary collaboration** across hardware, software, and analytics teams  
+- Designed and deployed **end-to-end IoT + ML systems** for smart health monitoring and automation  
+- Developed **low-power embedded systems** with cloud-integrated intelligence  
+- Implemented **real-time data pipelines** for multi-sensor fusion and analytics  
+- Collaborative, research-driven, and highly adaptive to new technologies  
 
 ---
 
