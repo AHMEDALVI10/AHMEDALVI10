@@ -11,7 +11,7 @@
 I am **Sakib Ahmed**, an **IoT Engineer** and **Machine Learning Enthusiast** passionate about developing intelligent and connected systems that seamlessly blend hardware and software.  
 I earned my **BSc in Electronics and Telecommunication Engineering** from the **Chittagong University of Engineering and Technology (CUET), Bangladesh**, in **2024**.
 
-Currently, I am working at **Magnetism Tech Limited**, where I design and develop **end-to-end IoT ecosystems** involving hardware design, firmware development, data processing, and cloud integration.  
+Currently, I am working at **Software & IoT based Company**, where I design and develop **end-to-end IoT ecosystems** involving hardware design, firmware development, data processing, and cloud integration.  
 My work focuses on **embedded systems**, **wireless communication**, **IoT–ML integration**, and **real-time analytics** to create impactful smart technologies.
 
 ---
