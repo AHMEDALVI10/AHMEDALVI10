@@ -18,19 +18,20 @@ My work focuses on **embedded systems**, **wireless communication**, **IoT–ML 
 
 ## 🧠 Professional Summary
 
-This is to certify that **Mr. Sakib Ahmed**, son of **Milon Ahmed** and **Rowshon Ara**, has been employed with **Magnetism Tech Limited** as an **IoT Engineer** since **28th October 2023**.
+This is to certify that **Mr. Sakib Ahmed** has been employed as an **IoT Engineer**.
 
-During his tenure, Mr. Ahmed has demonstrated exceptional **technical expertise**, **professionalism**, and **dedication**.  
-He has played a pivotal role in the **design, development, and deployment** of IoT systems encompassing:
+During his tenure, Mr. Ahmed has consistently demonstrated exceptional **technical expertise**, **professionalism**, and **dedication** in all aspects of his work.  
+He has played a pivotal role in the **design, development, and deployment** of advanced IoT systems, including:
 
 - ⚙️ **Embedded hardware design** and firmware development  
-- 🌐 **Wireless communication protocols** (WiFi, BLE, GSM, MQTT)  
-- ☁️ **Cloud connectivity and server–web integration**  
-- 💾 **Sensor data acquisition, preprocessing, and analytics**  
-- 🧩 **Machine Learning model deployment for IoT applications**  
-- 🖥️ **PCB design and system optimization**
+- 🌐 **Wireless communication protocols** such as Wi-Fi, BLE, GSM, and MQTT  
+- ☁️ **Cloud connectivity** and **server–web integration** for real-time data transmission  
+- 💾 **Sensor data acquisition**, preprocessing, and intelligent analytics  
+- 🧩 **Machine Learning model integration** for IoT-based decision systems  
+- 🖥️ **PCB design**, optimization, and power-efficient hardware implementation  
 
-His innovation-driven mindset and proficiency across both **hardware and AI software** domains have strengthened the company’s mission to build scalable and reliable IoT systems.
+His **innovation-driven mindset** and **cross-domain expertise** in both hardware and AI-based software have contributed to the successful development of **scalable, efficient, and reliable IoT solutions**.
+
 
 ---
 
