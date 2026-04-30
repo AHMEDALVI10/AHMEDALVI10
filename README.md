@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%8D+Building+AI+Vision+%26+LPR+Systems;%F0%9F%A4%96+IoT+%7C+Computer+Vision+%7C+Full-Stack+Dev;%E2%9A%A1+From+Sensor+to+Cloud+%E2%80%94+End+to+End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%94%8D+Building+AI+Vision+%26+LPR+Systems;%F0%9F%A4%96+IoT+%7C+Computer+Vision+%7C+Full-Stack+Dev;%E2%9A%A1+From+Sensor+to+Cloud+%E2%80%94+End+to+End" alt="Typing SVG" />
 </div>
 
 <div align="center">
