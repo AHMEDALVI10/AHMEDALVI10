@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d1ff,100:00f5a0&height=220&section=header&text=Sakib%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=IoT%20Engineer%20%7C%20Embedded%20Systems%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d1ff,100:00f5a0&height=220&section=header&text=Sakib%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=IoT%20Engineer%20%7C%20Computer%20Vision%20%7C%20AI%20%26%20Full-Stack%20Dev&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" />
 </div>
 
 <!-- Typing SVG -->
@@ -197,9 +197,9 @@
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AHMEDALVI10/AHMEDALVI10/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AHMEDALVI10/AHMEDALVI10/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/AHMEDALVI10/AHMEDALVI10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AHMEDALVI10/AHMEDALVI10/snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AHMEDALVI10/AHMEDALVI10/snake/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AHMEDALVI10/AHMEDALVI10/snake/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
