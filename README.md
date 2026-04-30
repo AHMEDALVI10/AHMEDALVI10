@@ -19,7 +19,7 @@
 <br/>
 
 <!-- About Me -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img align="right" width="300" hight="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
 ## 🧑‍💻 About Me
 
